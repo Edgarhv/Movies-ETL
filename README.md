@@ -10,3 +10,8 @@ This project aimed to gather movie data from both Wikipedia and kaggle and then 
 
 ## Results
 ![img](movies_query.png)
+![img](ratings_query.png)
+
+-After many hours of extract, transform, and load process, I had a database clean. This database contains two tables: one for movies and one for ratings. The movies table consists of 31 columns holding a range of information for 6052 different movies like the image above.
+
+-On the other side, The rating table consists of 5 different columns holding a range of information on over 26 million individual user ratings. Finally, these clean data make it easy if someone wants to do a different analysis.
