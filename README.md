@@ -7,3 +7,5 @@ Source: https://gfycat.com/insistentcomplicatedarrowworm-michael-emerson-jim-cav
 ### Overview
 
 This project aimed to gather movie data from both Wikipedia and kaggle and then create a database that we used to perform our own analysis.Also,I extracted the necessary data from Wikipedia and Kaggle, used python's pandas library to transform the data into a working dataframe, and then loaded it to PostgreSQL for a better purpose.
+
+## Results
